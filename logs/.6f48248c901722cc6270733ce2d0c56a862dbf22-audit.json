@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/duke/Documents/GitHub/implant-dentist-2/logs/.6f48248c901722cc6270733ce2d0c56a862dbf22-audit.json",
+    "files": [
+        {
+            "date": 1757147905659,
+            "name": "/Users/duke/Documents/GitHub/implant-dentist-2/logs/error-2025-09-06.log",
+            "hash": "1be355a25ebbb936008d7dd66ad3dd93946174d2f53d6e636e2a312b57dd5baa"
+        },
+        {
+            "date": 1757252094003,
+            "name": "/Users/duke/Documents/GitHub/implant-dentist-2/logs/error-2025-09-07.log",
+            "hash": "701677ff4d7c5843f04d6d5b3b2e0bb09b5e03e6398848c62234dcf7851d8666"
+        }
+    ],
+    "hashType": "sha256"
+}
